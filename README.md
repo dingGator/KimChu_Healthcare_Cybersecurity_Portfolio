@@ -21,8 +21,9 @@ Artifacts reflect my readiness to lead in healthcare SOCs and contribute to sect
 
 | Page | Title | Description |
 |------|-------|-------------|
-| 1️⃣ | Shadow Hunter Tabletop – Insider Risk Simulation | PHI exfiltration scenario using Microsoft Purview, mapped to MITRE and governance frameworks |
-| 2️⃣ | MITRE ATT&CK Mapping + Detection Engineering | Splunk + Sysmon logic mapped to real-world TTPs, with sector-specific use cases and mitigations |
+| 1️ | Shadow Hunter Tabletop – Insider Risk Simulation | PHI exfiltration scenario using Microsoft Purview, mapped to MITRE and governance frameworks |
+| 2️ | MITRE ATT&CK Mapping + Detection Engineering | Splunk + Sysmon logic mapped to real-world TTPs, with sector-specific use cases and mitigations |
+| 4 | Threat Actor Matrix for Healthcare SOCs | Adversary comparison mapped to MITRE ATT&CK, HHS 405(d), and CISA. Includes tooling, impact, and detection priorities for six threat profiles |
 | 📄 | Portfolio Summary | Strategic overview of all eight planned artifacts, themes, tools, and reference frameworks |
 
 ---
