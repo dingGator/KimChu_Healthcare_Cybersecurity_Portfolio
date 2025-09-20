@@ -22,7 +22,13 @@ Artifacts reflect my readiness to lead in healthcare SOCs and contribute to sect
 Reflects recent immersion events, publishing cadence, and governance enforcement work.
 
 ---
+## 🧭 Portfolio Homepage
 
+Explore the full portfolio, including walkthroughs, governance maps, and detection logic:
+
+🔗 [KimChu_Healthcare_Cybersecurity_Portfolio](https://github.com/dingGator/KimChu_Healthcare_Cybersecurity_Portfolio)
+
+---
 ## 📁 Portfolio Contents
 
 | Page | Title | Description |
