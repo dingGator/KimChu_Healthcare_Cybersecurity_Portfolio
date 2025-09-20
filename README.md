@@ -16,6 +16,12 @@ This portfolio showcases sector-specific artifacts designed to simulate real-wor
 Artifacts reflect my readiness to lead in healthcare SOCs and contribute to sector-wide resilience.
 
 ---
+## 📄 Resume
+
+[Kim Lien Chu – Healthcare Cybersecurity Resume (Sept 2025)](resume/Kim_Lien_Chu_Resume_9-20-2025.pdf)  
+Reflects recent immersion events, publishing cadence, and governance enforcement work.
+
+---
 
 ## 📁 Portfolio Contents
 
