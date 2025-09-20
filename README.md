@@ -23,7 +23,9 @@ Artifacts reflect my readiness to lead in healthcare SOCs and contribute to sect
 |------|-------|-------------|
 | 1️ | Shadow Hunter Tabletop – Insider Risk Simulation | PHI exfiltration scenario using Microsoft Purview, mapped to MITRE and governance frameworks |
 | 2️ | MITRE ATT&CK Mapping + Detection Engineering | Splunk + Sysmon logic mapped to real-world TTPs, with sector-specific use cases and mitigations |
+| 3️ | AI Radiology Ransomware Simulation (Microsoft Fabric) |  (https://github.com/dingGator/KimChu_Page_3_AI_Radiology_Ransomware_MS_Fabric_Simulation) | Microsoft Fabric-based ransomware scenario with SOC response and governance overlays *(hosted in separate repo)* |
 | 4 | Threat Actor Matrix for Healthcare SOCs | Adversary comparison mapped to MITRE ATT&CK, HHS 405(d), and CISA. Includes tooling, impact, and detection priorities for six threat profiles |
+| 5 | GenAI Vulnerability Mapping in Healthcare SOCs | MITRE ATLAS AML.T0054 walkthrough with prompt injection, plugin abuse, SOC detection logic, and HHS 405(d) alignment |
 | 📄 | Portfolio Summary | Strategic overview of all eight planned artifacts, themes, tools, and reference frameworks |
 
 ---
