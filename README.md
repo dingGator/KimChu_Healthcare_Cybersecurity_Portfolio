@@ -17,6 +17,21 @@ Artifacts reflect my readiness to lead in healthcare SOCs and contribute to sect
 
 ---
 
+## 📬 Resume Access
+
+📄 Resume available upon request  
+Please connect via [LinkedIn](https://www.linkedin.com/in/kim-lien-chu-72924942/) to request access.
+
+This portfolio is curated for public publishing. Sensitive PII is gated to maintain privacy hygiene and recruiter engagement control.
+
+---
+## 🧭 Portfolio Homepage
+
+Explore the full portfolio, including walkthroughs, governance maps, and detection logic:
+
+🔗 [KimChu_Healthcare_Cybersecurity_Portfolio](https://github.com/dingGator/KimChu_Healthcare_Cybersecurity_Portfolio)
+
+---
 ## 📁 Portfolio Contents
 
 | Page | Title | Description |
