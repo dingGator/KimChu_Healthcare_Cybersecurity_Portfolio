@@ -48,8 +48,8 @@ Explore the full portfolio, including walkthroughs, governance maps, and detecti
 
 ## Upcoming Additions
 
-| Tool | Description | Location
-|------|-------------|
+| Tool | Description | Location-|
+|------|-------------|----------|
 | HHS 405(d) Resources Cheat Sheet | Quick-reference guide to HICP practices and threat categories | Will be published in governance repo |
 | MITRE ATT&CK Cheat Sheet | TTP mapping shortcuts and SOC alert tuning tips | Will be published in governance repo |
 
