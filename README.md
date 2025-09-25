@@ -41,16 +41,17 @@ Explore the full portfolio, including walkthroughs, governance maps, and detecti
 | 3️ | AI Radiology Ransomware Simulation (Microsoft Fabric) |  (https://github.com/dingGator/KimChu_Page_3_AI_Radiology_Ransomware_MS_Fabric_Simulation) | Microsoft Fabric-based ransomware scenario with SOC response and governance overlays *(hosted in separate repo)* |
 | 4 | Threat Actor Matrix for Healthcare SOCs | Adversary comparison mapped to MITRE ATT&CK, HHS 405(d), and CISA. Includes tooling, impact, and detection priorities for six threat profiles |
 | 5 | GenAI Vulnerability Mapping in Healthcare SOCs | MITRE ATLAS AML.T0054 walkthrough with prompt injection, plugin abuse, SOC detection logic, and HHS 405(d) alignment |
+| 6 | GenAI Threat Matrix for Healthcare SOCs | MITRE ATT&CK mapping of GenAI adversarial techniques with SQL-based detection logic, mitigation strategies, HHS 405(d) overlays, and field-level documentation |
 | 📄 | Portfolio Summary | Strategic overview of all eight planned artifacts, themes, tools, and reference frameworks |
 
 ---
 
-## 🧰 Analyst Tools
+## Upcoming Additions
 
-| Tool | Description |
+| Tool | Description | Location
 |------|-------------|
-| HHS 405(d) Resources Cheat Sheet | Quick-reference guide to HICP practices and threat categories |
-| MITRE ATT&CK Cheat Sheet | TTP mapping shortcuts and SOC alert tuning tips |
+| HHS 405(d) Resources Cheat Sheet | Quick-reference guide to HICP practices and threat categories | Will be published in governance repo |
+| MITRE ATT&CK Cheat Sheet | TTP mapping shortcuts and SOC alert tuning tips | Will be published in governance repo |
 
 ---
 
